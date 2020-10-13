@@ -16,7 +16,7 @@ More specifically, Chatterware is a license addition that emphasizes the followi
 
 ## Usage
 
-1. Add the Chatterware badges at the top of your project's README file. This allows users to easily identify that your project is Chatterware.
+1. Add the Chatterware badge at the top of your project's README file. This allows users to easily identify that your project is Chatterware.
 
    ```markdown
    [![Chatterware](https://img.shields.io/badge/license%20addition-Chatterware-%2385ff95?labelColor=black)](https://github.com/chatter-social/chatterware)
