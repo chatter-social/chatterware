@@ -31,5 +31,5 @@ More specifically, Chatterware is a license addition that emphasizes the followi
     <!-- Project --> is Chatterware! 🗣<br>
     This means that you are free to use this project, as long as you give it a 🌟 star and spread the word!
     If you use this project, it is encouraged that you make a contribution, especially if you haven't ever contributed to open source!
-    Never contributed to open source? Read this guide: https://opensource.guide/how-to-contribute/ ♥
+    Never contributed to open source? Read this guide: https://opensource.guide/how-to-contribute/ :heart:
     ```
