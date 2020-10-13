@@ -35,4 +35,5 @@ More specifically, Chatterware is a license addition that emphasizes the followi
     ```
 ## Why Chatterware?
 
-Chatterware is optimal for small projects that have yet to be discovered, as it makes it simpler to gain insightful contributors. Also, it encourages the promotion of your project by word of mouth, allowing you to reach even **more** talented contributors and developers and finally, it allows people to directly praise your work. Another bonus of this is that stars are the standard unit of measurement for trending repositories. Overall, Chatterware is a short and sweet way to improve your project. Let's make the future of open source software brighter **together**. 💡
+Chatterware is optimal for small projects that have yet to be discovered, as it makes it simpler to gain insightful contributors. Also, it encourages the promotion of your project by word of mouth, allowing you to reach even **more** talented contributors and developers and finally, it allows people to directly praise your work. Another bonus of this is that stars are the standard unit of measurement for trending repositories. Overall, Chatterware is a short and sweet way to improve your project.<br>
+Let's make the future of open source software brighter **together**. 💡
