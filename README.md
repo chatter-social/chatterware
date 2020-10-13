@@ -26,14 +26,13 @@ More specifically, Chatterware is a license addition that emphasizes the followi
 2. Add the Chatterware license addition section to the bottom of your project's README. Don't forget to change the placeholder to your project's name!
 
     ```markdown
-    ## Chatterware
+    ##  Chatterware
 
     <!-- Project --> is Chatterware! 🗣<br>
-    This means that you are free to use this project, as long as you give it a 🌟 star and spread the word!
+    This means that you are free to use this project, as long as you give it a :star: and spread the word!
     If you use this project, it is encouraged that you make a contribution, especially if you haven't ever contributed to open source!
     Never contributed to open source? Read this guide: https://opensource.guide/how-to-contribute/ <br>
     Your contributions make us _**chatter**_ appreciation! ❤️
-
     ```
 ## Why Chatterware?
 
