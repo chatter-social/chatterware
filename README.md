@@ -5,7 +5,7 @@
 
 ## About
 
-Chatterware is an open-source license addition.
+Chatterware is an open-source license addition that you can add to your README. 
 
 More specifically, Chatterware is a license addition that emphasizes the following things:  
 
