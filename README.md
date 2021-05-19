@@ -1,4 +1,4 @@
-# ~ Chatterware ~
+# Chatterware
 [![License](https://img.shields.io/badge/license-Unlicense-%2385ff95?labelColor=black)](https://github.com/chatter-social/chatterware/blob/main/LICENSE) 
 [![Chatterware](https://img.shields.io/badge/license%20addition-Chatterware-%2385ff95?labelColor=black)](https://github.com/chatter-social/chatterware)
 [![Why?](https://img.shields.io/badge/why-Chatterware%3F-%2385ff95?labelColor=black)](https://github.com/chatter-social/chatterware#why-chatterware)
